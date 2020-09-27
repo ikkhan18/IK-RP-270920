@@ -33,6 +33,15 @@ body {
   height: 300px;
   margin-right: 20px;
 }
+
+#mainCard {
+  margin-top: 5%;
+  margin-left: 15%;
+}
+/* Margins for Images */
+.img-thumbnail {
+  margin: 10%;
+}
 #bio {
 margin-top: 6%;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;

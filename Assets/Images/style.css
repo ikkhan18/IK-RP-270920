@@ -1,0 +1,30 @@
+body {
+  background-image: url("Assets/Images/background.JPG");
+  /* background-position: cover; */
+  background-repeat: no-repeat;
+  background-size:  100% 100%;
+}
+
+.navbar {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.btn-primary {
+  background-color: #89a3a3d0;
+  color: black;
+}
+
+#mainCard {
+  margin-top: 5%;
+  margin-left: 15%;
+}
+
+.img-thumbnail {
+  margin: 0%;
+}
+
+#links, #btn {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-left: 3%;
+}
+
